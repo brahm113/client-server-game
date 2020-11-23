@@ -1,6 +1,7 @@
 # client-server-game
 
-Problem Statement
+# Problem Statement:
+
 Write two programs, a client and a server, to implement a simple online game. The server process and the client process will run on two different machines and the communication between the two processes is achieved using Sockets. The server/client tasks can be summarized as follows :
 
 The server must start running before any client, and goes into an infinite loop to wait for clients.
